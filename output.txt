@@ -1,0 +1,5 @@
+Dog Mammal:true Carnivourous:true Sound:Bark Number of Legs:4 Tail:true
+
+Goldfish Mammal:false Carnivourous:false Sound:null Gills:true Eggs:true
+
+Duck Mammal:false Carnivourous:false Sound:Quack Number of Legs:2 Tail:false Gills:false Eggs:true
